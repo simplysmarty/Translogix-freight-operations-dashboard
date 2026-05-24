@@ -1,6 +1,8 @@
 # TransLogix Freight — Operations Intelligence Dashboard
 ## Built with Microsoft Power BI | Multi-Table Logistics Dataset
 
+![Dashboard - Preview](https://github.com/simplysmarty/Employee-Attrition-Risk-Analysis-Dashboard/blob/main/dashboard%20preview.png?raw=true)
+
 ---
 
 ## 🏢 Company Overview
