@@ -1,4 +1,5 @@
 # TransLogix Freight — Operations Intelligence Dashboard
+
 ## Built with Microsoft Power BI | Multi-Table Logistics Dataset
 
 ![Dashboard - Preview](https://github.com/simplysmarty/Translogix-freight-operations-dashboard/blob/main/data/Intelligence%20Dashboard.png)
@@ -439,26 +440,29 @@ Average MPG varied meaningfully across truck makes in the fleet. The most fuel-e
 
 ## ✅ Recommendations
 
-**Recommendation 1 — Launch an Immediate Fuel Efficiency Programme**
-With fuel consuming 36.4% of base revenue, this is the highest-return intervention available. Three specific actions: (1) mandate driver idle reduction targets for the 15 highest-idle drivers identified on the Driver Performance scatter chart, (2) prioritise route assignments toward the highest-MPG truck makes for long-haul routes, and (3) establish monthly MPG benchmarks per driver with performance tied to incentive pay. A 0.5 MPG fleet-wide improvement would recover approximately $3–5M annually.
+**Recommendation 1 — Implement a Fleet-Wide Fuel Efficiency Programme (Priority: Critical)** 
+With fuel consuming 36.4% of base revenue, a structured driver fuel efficiency training programme is the highest-ROI operational investment available. Model the programme on Joseph's driving habits and fuel management — the best MPG performer at 6.53. A 0.5 MPG improvement fleet-wide would save approximately $4.8M annually at current fuel prices. Introduce idle time monitoring, eco-driving incentives and monthly MPG leaderboards to sustain engagement.
 
-**Recommendation 2 — Address the On-Time Delivery Crisis Before the Next Contract Renewal Cycle**
-A 44.3% late delivery rate is commercially unsustainable. The retention team should immediately identify which of the top 10 customers by revenue have experienced the worst OTD rates — these customers are at the highest contract renewal risk. Simultaneously, the operations team should investigate the root causes at the facilities with the highest detention times, as excessive detention is frequently a scheduling and dock management problem with a straightforward process fix.
+**Recommendation 2 — Develop a 17-Route Star Lane Investment Strategy (Priority: High)**
+The 17 Star Routes identified in the scatter analysis generate both high revenue AND high per-mile returns. The company should prioritise load allocation, premium driver assignment and capacity investment on these lanes. Simultaneously commission a profitability review of the 19 Underperformer routes — some may be loss-making when full costs are allocated and should be exited or renegotiated..
 
-**Recommendation 3 — Implement DOT Compliance Training to Eliminate the Second Largest Incident Cost**
-DOT violations at $581K in claims require no capital investment to fix. A structured quarterly compliance review programme including pre-trip inspection checklists, HOS (Hours of Service) monitoring and load securement training would address the root causes. This is the fastest return-on-investment safety intervention available to the company.
+**Recommendation 3 — Launch a Contract Customer Retention and Expansion Programme (Priority: High)**
+Contract customers generate 37.6% of base revenue — the highest segment — but51.2% of total customer revenue potential remains untapped. A structured account management programme targeting the top 20 customers with dedicated relationship managers, service level reviews and volume incentive structures could recover a significant portion of this untapped potential without any new customer acquisition cost.
 
-**Recommendation 4 — Reassign or Retrain the Highest-Risk Drivers**
-The composite Driver Risk Score identifies specific individuals whose combination of incidents, preventable rate, OTD failure and excessive idle time represents a disproportionate cost and liability burden. These drivers should receive individual performance improvement plans with defined 90-day targets. Drivers who do not improve should be considered for route reassignment to lower-risk, shorter-distance lanes.
+**Recommendation 4 — Address the On-Time Delivery Crisis Before Contract Renewals (Priority: Critical)**
+A 44.33% late delivery rate is commercially unsustainable. The company should conduct a root cause analysis segmented by route, driver and time of year to identify the specific patterns driving lateness. Quick wins include: adjusting scheduled delivery windows to reflect realistic transit times, reducing detention through customer communication protocols, and reassigning the most reliable drivers (highest OTD rates) to the most at-risk lanes.
 
-**Recommendation 5 — Shift Route Investment Toward Star Routes**
-The Route Performance scatter chart identifies routes that are both high-revenue and high-efficiency per mile. These Star Routes should receive priority truck allocation, the most experienced and highest-performing drivers, and the first access to maintenance slots to minimise downtime. Underperforming routes — low revenue and low efficiency — should be reviewed for commercial renegotiation or elimination from the route portfolio.
+**Recommendation 5 — Accelerate Fleet Renewal for Trucks Aged 7 Years or More (Priority: Medium)**
+Trucks aged 9 years carry $3.66M in maintenance costs. The data clearly shows maintenance cost rising with truck age. A rolling fleet renewal programme targeting vehicles aged 7 years or older would reduce maintenance spend, decrease downtime hours and improve fleet-wide fuel efficiency — as newer trucks deliver better MPG. Model the break-even point between new truck financing cost and avoided maintenance and downtime costs
 
-**Recommendation 6 — Begin a Structured Fleet Renewal Plan for the Oldest Trucks**
-The truck age versus maintenance cost scatter analysis confirms that older trucks drive significantly higher maintenance spend. Trucks beyond a defined age threshold should be flagged for planned replacement in the capital budget cycle — the ongoing maintenance cost of keeping aging vehicles in service is demonstrably higher than the depreciation cost of newer equipment.
+**Recommendation 6 — Implement a Preventable Incident Reduction Programme Targeting Top 10 Drivers (Priority: High)**
+37.6% of all incidents are preventable. The top 7 drivers by incident count (David-14, Mary-13, Robert-13, William-13, James-10, Jennifer-10, Linda-10) should be enrolled in a mandatory safety improvement programme including coaching, route reassignment and monitored improvement targets. David alone has 9 preventable incidents — this represents both a safety risk and a significant avoidable cost.
 
-**Recommendation 7 — Leverage Seasonal Patterns for Operational Planning**
-Q4 demand spikes and Q1 demand troughs are consistent and predictable. The company should schedule the majority of preventive maintenance activity in Q1 when demand is lowest — reducing Q4 downtime when every truck is needed. Driver leave scheduling, training programmes and facility upgrades should all be concentrated in the January–March window.
+**Recommendation 7 — Establish a DOT Compliance Programme (Priority: High)**
+DOT Violations are the highest-count incident type at 39 incidents costing $581K. Every DOT violation is 100% preventable through systematic compliance management — pre-trip vehicle inspections, hours-of-service monitoring and regulatory training. A compliance programme costing $50K-100K annually would eliminate the majority of the $581K in annual violation costs.
+
+**Recommendation 8 - Negotiate Fuel Purchasing Contracts in TX and TN (Priority: Medium)**
+Texas and Tennessee together account for 15.96% of total fleet fuel spend. Negotiating fleet fuel card contracts with preferred fuel stops in these two states targeting a 3-5% price discount — could save $380K-$632K annually on fuel costs in these two states alone.
 
 ---
 
@@ -485,7 +489,7 @@ The customer revenue analysis shows that a small number of customers generate a 
 
 This analysis demonstrates that TransLogix Freight Company is a commercially strong business with significant operational inefficiencies that are preventable, measurable and correctable.
 
-The headline revenue of $262.5 million across 85,410 loads reflects genuine market capability. However, the combination of a 36.4% fuel cost burden, a 44.3% late delivery rate and $2.65 million in safety claims means the company is operating well below its profitability potential. None of these problems require new markets, new customers or new capital investment to solve but they require data-driven operational discipline applied consistently to the areas the analysis has already identified.
+The headline revenue of $262.5 million across 85,410 loads reflects genuine market capability. However, the combination of a 36.4% fuel cost burden, a 44.3% late delivery rate and $2.65 million in safety claims means the company is operating well below its profitability potential. None of these problems require new markets, new customers or new capital investment to solve but they require data-driven operational discipline applied consistently to the areas the analysis has already identified and the recommendations provided.
 
 The four-page dashboard built for this project goes beyond standard reporting. It integrates 14 data sources into a single analytical framework that enables management to ask and answer operational questions that were previously invisible. The composite risk scoring models for routes, the fuel efficiency quadrant analysis, the scatter chart correlations between experience and performance, and the seasonal pattern identification all represent analytical approaches that move the business from reactive management to proactive intelligence.
 
