@@ -15,7 +15,7 @@ Over a **three-year operating period (2022–2024)**, TransLogix processed **85,
 
 > *"TransLogix Freight Company generates $262.5 million in base revenue annually but operates without structured visibility into the drivers of its profitability, efficiency and safety performance. Fuel costs at $95.6 million represent 36.4% of total base revenue — the single largest cost in the business — yet the company has no insight into which routes, drivers or states are consuming fuel most inefficiently. The on-time delivery rate stands at only 55.7%, meaning nearly 1 in every 2 deliveries arrives late, threatening customer retention and contract renewals. Meanwhile the company has no formal framework to identify which drivers, trucks and routes are generating the most value versus creating the most risk.*
 >
-> *Management needs a comprehensive four-page operational intelligence dashboard that connects revenue performance, fuel efficiency, driver productivity, fleet utilisation, maintenance cost and safety management into one integrated analytical view — so that data-driven decisions can be made immediately about where to invest, where to cut costs and where to intervene before problems compound."*
+> *Management needs a comprehensive operational intelligence dashboard that connects revenue performance, fuel efficiency, driver productivity, fleet utilisation, maintenance cost and safety management into one integrated analytical view — so that data-driven decisions can be made immediately about where to invest, where to cut costs and where to intervene before problems compound."*
 
 — **Mr. Ezekiel Adeleke, Operations Director, TransLogix Freight Company**
 
@@ -528,7 +528,11 @@ This dataset was provided as part of the **TS Academy Data Analytics Capstone Pr
 
 ## 👤 About the Analyst
 
-**Fasanya Segun**
+**Fasanya Segun - Data Analyst, Lagos Nigeria**
+
+Open to remote roles — Junior Data Analyst · BI Analyst · People Analytics · Reporting Analyst
+
+
 
 
 
