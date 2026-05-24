@@ -13,9 +13,9 @@ Over a **three-year operating period (2022–2024)**, TransLogix processed **85,
 
 ## 📌 Business Problem Statement
 
-> *"TransLogix Freight Company generates $262.5 million in base revenue annually but operates without structured visibility into the drivers of its profitability, efficiency and safety performance. Fuel costs at $95.6 million represent 36.4% of total base revenue — the single largest cost in the business — yet the company has no insight into which routes, drivers or states are consuming fuel most inefficiently. The on-time delivery rate stands at only 55.7%, meaning nearly 1 in every 2 deliveries arrives late, threatening customer retention and contract renewals. Meanwhile the company has no formal framework to identify which drivers, trucks and routes are generating the most value versus creating the most risk.*
+> *"TransLogix Freight Company generates $262.5 million in base revenue annually but operates without structured visibility into the drivers of its profitability, efficiency and safety performance. Fuel costs at $95.6 million represent 36.4% of total base revenue, the single largest cost in the business yet the company has no insight into which routes, drivers or states are consuming fuel most inefficiently. The on-time delivery rate stands at only 55.7%, meaning nearly 1 in every 2 deliveries arrives late, threatening customer retention and contract renewals. Meanwhile the company has no formal framework to identify which drivers, trucks and routes are generating the most value versus creating the most risk.*
 >
-> *Management needs a comprehensive operational intelligence dashboard that connects revenue performance, fuel efficiency, driver productivity, fleet utilisation, maintenance cost and safety management into one integrated analytical view — so that data-driven decisions can be made immediately about where to invest, where to cut costs and where to intervene before problems compound."*
+> *Management needs a comprehensive operational intelligence dashboard that connects revenue performance, fuel efficiency, driver productivity, fleet utilisation, maintenance cost and safety management into one integrated analytical view so that data-driven decisions can be made immediately about where to invest, where to cut costs and where to intervene before problems compound."*
 
 — **Mr. Ezekiel Adeleke, Operations Director, TransLogix Freight Company**
 
@@ -410,10 +410,10 @@ Total fuel cost across the three-year period was **$95.6 million** against **$26
 The on-time delivery rate across **170,820 delivery events** was just **55.7%**, meaning **44.3% of all deliveries arrived late**. Average detention time was **91.5 minutes per event** — amounting to **15.6 million minutes** of total detention across the period. In a competitive freight market where contract renewals depend on service reliability, a late rate above 40% is a serious and urgent customer retention risk.
 
 ### Finding 3 — Long-Haul Routes Dominate Revenue
-The top two revenue-generating routes — **Philadelphia to Seattle ($10.07M)** and **Charlotte to Portland ($9.98M)** — are both cross-country hauls. Long-distance routes earn significantly higher revenue per load ($6,873 average) compared to shorter regional routes. However, these same routes also carry higher fuel costs and more safety incident exposure, making the **Revenue vs Efficiency Per Mile scatter analysis** essential for correctly identifying true profitability.
+The top two revenue-generating routes — **Philadelphia to Seattle ($10.07M)** and **Charlotte to Portland ($9.98M)** are both cross-country hauls. Long-distance routes earn significantly higher revenue per load ($6,873 average) compared to shorter regional routes. However, these same routes also carry higher fuel costs and more safety incident exposure, making the **Revenue vs Efficiency Per Mile scatter analysis** essential for correctly identifying true profitability.
 
 ### Finding 4 — Revenue is Nearly Equally Split Between Load Types
-Base revenue was split almost evenly between **Refrigerated ($131.97M, 50.3%)** and **Dry Van ($130.56M, 49.7%)** loads. This balance appears stable across all three years. The key analytical question is whether this balance reflects a deliberate strategic decision — or a missed opportunity to shift capacity toward whichever load type is more profitable per mile after accounting for fuel and maintenance differences.
+Base revenue was split almost evenly between **Refrigerated ($131.97M, 50.3%)** and **Dry Van ($130.56M, 49.7%)** loads. This balance appears stable across all three years. The key analytical question is whether this balance reflects a deliberate strategic decision or a missed opportunity to shift capacity toward whichever load type is more profitable per mile after accounting for fuel and maintenance differences.
 
 ### Finding 5 — Month-to-Month Seasonal Patterns Are Significant
 Revenue and load volume showed consistent seasonal patterns across 2022–2024. **Q4 (October–December)** was consistently the strongest period while **Q1 (January–March)** was the weakest. This predictable seasonality represents an operational planning opportunity — fleet maintenance, driver scheduling and inventory positioning can all be optimised around the known demand cycle rather than reacting to it.
@@ -444,7 +444,7 @@ With fuel consuming 36.4% of base revenue, this is the highest-return interventi
 A 44.3% late delivery rate is commercially unsustainable. The retention team should immediately identify which of the top 10 customers by revenue have experienced the worst OTD rates — these customers are at the highest contract renewal risk. Simultaneously, the operations team should investigate the root causes at the facilities with the highest detention times, as excessive detention is frequently a scheduling and dock management problem with a straightforward process fix.
 
 **Recommendation 3 — Implement DOT Compliance Training to Eliminate the Second Largest Incident Cost**
-DOT violations at $581K in claims require no capital investment to fix. A structured quarterly compliance review programme — including pre-trip inspection checklists, HOS (Hours of Service) monitoring and load securement training — would address the root causes. This is the fastest return-on-investment safety intervention available to the company.
+DOT violations at $581K in claims require no capital investment to fix. A structured quarterly compliance review programme including pre-trip inspection checklists, HOS (Hours of Service) monitoring and load securement training would address the root causes. This is the fastest return-on-investment safety intervention available to the company.
 
 **Recommendation 4 — Reassign or Retrain the Highest-Risk Drivers**
 The composite Driver Risk Score identifies specific individuals whose combination of incidents, preventable rate, OTD failure and excessive idle time represents a disproportionate cost and liability burden. These drivers should receive individual performance improvement plans with defined 90-day targets. Drivers who do not improve should be considered for route reassignment to lower-risk, shorter-distance lanes.
@@ -469,23 +469,23 @@ The on-time delivery finding has immediate contractual implications. Customers w
 Fuel at 36.4% of revenue means the business is highly exposed to fuel price volatility. The fuel cost trend analysis shows that cost increases have come from both volume growth and price per gallon increases. A fuel hedging strategy should be evaluated to reduce the company's exposure to spot market price swings.
 
 **For the Safety & Compliance Team:**
-The preventability analysis reveals that over one-third of all incidents could have been avoided. Beyond the direct claims cost, preventable incidents create regulatory exposure, insurance premium increases and reputational risk with shippers. A safety culture investment — including driver recognition programmes for zero-incident performance — would address the behavioural root causes that compliance enforcement alone cannot reach.
+The preventability analysis reveals that over one-third of all incidents could have been avoided. Beyond the direct claims cost, preventable incidents create regulatory exposure, insurance premium increases and reputational risk with shippers. A safety culture investment including driver recognition programmes for zero-incident performance would address the behavioural root causes that compliance enforcement alone cannot reach.
 
 **For Human Resources:**
 The driver performance data reveals a consistent relationship between driver tenure and reliability metrics. This has direct implications for driver recruitment, onboarding programmes and retention strategy. Investing in keeping experienced, high-performing drivers reduces both operational risk and the cost of constant driver replacement and retraining.
 
 **For Commercial Strategy:**
-The customer revenue analysis shows that a small number of customers generate a disproportionate share of total revenue. The company's service improvement investments — on-time delivery, detention reduction, account management — should be explicitly prioritised toward these highest-value accounts to protect the revenue base that sustains the entire operation.
+The customer revenue analysis shows that a small number of customers generate a disproportionate share of total revenue. The company's service improvement investments on-time delivery, detention reduction, account management should be explicitly prioritised toward these highest-value accounts to protect the revenue base that sustains the entire operation.
 
 ---
 
 ## 🏁 Conclusions
 
-This capstone analysis demonstrates that TransLogix Freight Company is a commercially strong business with significant operational inefficiencies that are preventable, measurable and correctable.
+This analysis demonstrates that TransLogix Freight Company is a commercially strong business with significant operational inefficiencies that are preventable, measurable and correctable.
 
-The headline revenue of $262.5 million across 85,410 loads reflects genuine market capability. However, the combination of a 36.4% fuel cost burden, a 44.3% late delivery rate and $2.65 million in safety claims means the company is operating well below its profitability potential. None of these problems require new markets, new customers or new capital investment to solve — they require data-driven operational discipline applied consistently to the areas the analysis has already identified.
+The headline revenue of $262.5 million across 85,410 loads reflects genuine market capability. However, the combination of a 36.4% fuel cost burden, a 44.3% late delivery rate and $2.65 million in safety claims means the company is operating well below its profitability potential. None of these problems require new markets, new customers or new capital investment to solve but they require data-driven operational discipline applied consistently to the areas the analysis has already identified.
 
-The four-page dashboard built for this project goes beyond standard reporting. It integrates 14 data sources into a single analytical framework that enables management to ask and answer operational questions that were previously invisible. The composite risk scoring models for drivers and routes, the fuel efficiency quadrant analysis, the scatter chart correlations between experience and performance, and the seasonal pattern identification all represent analytical approaches that move the business from reactive management to proactive intelligence.
+The four-page dashboard built for this project goes beyond standard reporting. It integrates 14 data sources into a single analytical framework that enables management to ask and answer operational questions that were previously invisible. The composite risk scoring models for routes, the fuel efficiency quadrant analysis, the scatter chart correlations between experience and performance, and the seasonal pattern identification all represent analytical approaches that move the business from reactive management to proactive intelligence.
 
 The most important conclusion from this analysis is not any individual finding — it is that **TransLogix already has the data it needs to significantly improve its profitability, safety record and service quality**. The bottleneck has never been the data. It has been the absence of a structured analytical framework to turn that data into decisions.
 
@@ -542,4 +542,4 @@ Open to remote roles — Junior Data Analyst · BI Analyst · People Analytics �
 
 ---
 
-*This project was completed as the TS Academy Data Analytics Capstone submission. Every step of the analytical process — from data modelling to DAX to dashboard design — was documented publicly as part of an ongoing commitment to learning in public.*
+*This project was completed as the TS Academy Data Analytics Capstone submission. Every step of the analytical process from data modelling to DAX to dashboard design was documented publicly as part of an ongoing commitment to learning in public.*
